@@ -1,0 +1,83 @@
+
+{
+	"recipes": [
+	
+		{
+			"name": "AeroPress",
+			"description": "Brews a small, strong cup of coffee. Grind like a fine filter coffee. Ideal for lighter roasts.",
+			"steps": [
+				{
+					"type": "weight",
+					"description": "Weigh 16g of coffee",
+					"amount": 16
+				},
+				{
+					"type": "weight",
+					"description": "Weigh 230g of freshly boiled water",
+					"amount": 230
+				},
+				{
+					"type": "time",
+					"description": "Let steep with the plunger on for 2 minutes",
+					"amount": 120
+				},
+				{
+					"type": "time",
+					"description": "Swirl, then wait 30 seconds for grounds to settle",
+					"amount": 30
+				},
+				{
+					"type": "time",
+					"description": "Plunge the brewer",
+					"amount": 30
+				}
+			]
+		},
+		{
+			"name": "recipe2",
+			"description": "a sample recipe",
+			"steps": [
+				{
+					"type": "weight",
+					"description": "Weigh 16g of coffee",
+					"amount": 16
+				},
+				{
+					"type": "time",
+					"description": "Wait 5 seconds for no reason",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "recipe3",
+			"description": "a third sample recipe",
+			"steps": [
+				{
+					"type": "weight",
+					"description": "Weigh 10g of water",
+					"amount": 10
+				},
+				{
+					"type": "time",
+					"description": "Wait 5 seconds for no reason",
+					"amount": 5
+				}
+			]
+		}
+	]
+}
+
+"{\"recipes\": [{\"name\": \"AeroPress\",\"description\": \"Brews a small, strong cup of coffee. Grind like a fine filter coffee. Ideal for lighter roasts.\",\"steps\": [{\"type\": \"weight\",\"description\": \"Weigh 16g of coffee\",\"amount\": 16},{\"type\": \"weight\",\"description\": \"Weigh 230g of freshly boiled water\",\"amount\": 230},{\"type\": \"time\",\"description\": \"Let steep with the plunger on for 2 minutes\",\"amount\": 120},{\"type\": \"time\",\"description\": \"Swirl, then wait 30 seconds for grounds to settle\",\"amount\": 30},{\"type\": \"time\",\"description\": \"Plunge the brewer\",\"amount\": 30},]},{\"name\": \"recipe2\",\"description\": \"a sample recipe\",\"steps\": [{\"type\": \"weight\",\"description\": \"Weigh 16g of coffee\",\"amount\": 16},{\"type\": \"time\",\"description\": \"Wait 5 seconds for no reason\",\"amount\": 5}]},{\"name\": \"recipe3\",\"description\": \"a third sample recipe\",\"steps\": [{\"type\": \"weight\",\"description\": \"Weigh 10g of water\",\"amount\": 10},{\"type\": \"time\",\"description\": \"Wait 5 seconds for no reason\",\"amount\": 5}]}]}"
+
+
+//"{'recipes': [{'name': 'AeroPress','description': 'Brews a small, strong cup of coffee. Grind like a fine filter coffee. Ideal for lighter roasts.','steps': [{'type': 'weight','description': 'Weigh 16g of coffee','amount': 16},{'type': 'weight','description': 'Weigh 230g of freshly boiled water','amount': 230},{'type': 'time','description': 'Let steep with the plunger on for 2 minutes','amount': 120},{'type': 'time','description': 'Swirl, then wait 30 seconds for grounds to settle','amount': 30},{'type': 'time','description': 'Plunge the brewer','amount': 30},]},{'name': 'recipe2','description': 'a sample recipe','steps': [{'type': 'weight','description': 'Weigh 16g of coffee','amount': 16},{'type': 'time','description': 'Wait 5 seconds for no reason','amount': 5}]},{'name': 'recipe3','description': 'a third sample recipe','steps': [{'type': 'weight','description': 'Weigh 10g of water','amount': 10},{'type': 'time','description': 'Wait 5 seconds for no reason','amount': 5}]}]}"
+
+
+//"{recipes:[{name:'AeroPress',description:'Brewsasmall,strongcupofcoffee.Grindlikeafinefiltercoffee.Idealforlighterroasts.',steps:[{type:'weight',description:'Weigh16gofcoffee',amount:16},{type:'weight',description:'Weigh230goffreshlyboiledwater',amount:230},{type:'time',description:'Letsteepwiththeplungeronfor2minutes',amount:120},{type:'time',description:'Swirl,thenwait30secondsforgroundstosettle',amount:30},{type:'time',description:'Plungethebrewer',amount:30},]},{name:'recipe2',description:'asamplerecipe',steps:[{type:'weight',description:'Weigh16gofcoffee',amount:16},{type:'time',description:'Wait5secondsfornoreason',amount:5}]},{name:'recipe3',description:'athirdsamplerecipe',steps:[{type:'weight',description:'Weigh10gofwater',amount:10},{type:'time',description:'Wait5secondsfornoreason',amount:5}]}]}"
+
+//"{recipe: {name: 'AeroPress',description: 'Brews a small, strong cup of coffee. Grind like a fine filter coffee. Ideal for lighter roasts.',steps: [{type: 'weight',description: 'Weigh 16g of coffee',amount: 16},{type: 'weight',description: 'Weigh 230g of freshly boiled water',amount: 230},{type: 'time',description: 'Let steep with the plunger on for 2 minutes',amount: 120},{type: 'time',description: 'Swirl, then wait 30 seconds for grounds to settle',amount: 30},{type: 'time',description: 'Plunge the brewer',amount: 30}]}}"
+
+
+
+//"{recipes: [{name: 'AeroPress',description: 'Brews a small, strong cup of coffee. Grind like a fine filter coffee. Ideal for lighter roasts.',steps: [{type: 'weight',description: 'Weigh 16g of coffee',amount: 16},{type: 'weight',description: 'Weigh 230g of freshly boiled water',amount: 230},{type: 'time',description: 'Let steep with the plunger on for 2 minutes',amount: 120},{type: 'time',description: 'Swirl, then wait 30 seconds for grounds to settle',amount: 30},{type: 'time',description: 'Plunge the brewer',amount: 30},]},{name: 'recipe2',description: 'a sample recipe',steps: [{type: 'weight',description: 'Weigh 16g of coffee',amount: 16},{type: 'time',description: 'Wait 5 seconds for no reason',amount: 5}]},{name: 'recipe3',description: 'a third sample recipe',steps: [{type: 'weight',description: 'Weigh 10g of water',amount: 10},{type: 'time',description: 'Wait 5 seconds for no reason',amount: 5}]}]}"

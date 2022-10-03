@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clearbrewfrontend-dev-155616-authRole",
+      "UnauthRoleArn": "arn:aws:iam::478467878158:role/amplify-clearbrewfrontend-dev-155616-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::478467878158:role/amplify-clearbrewfrontend-dev-155616-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clearbrewfrontend-dev-155616-deployment",
+      "UnauthRoleName": "amplify-clearbrewfrontend-dev-155616-unauthRole",
+      "StackName": "amplify-clearbrewfrontend-dev-155616",
+      "StackId": "arn:aws:cloudformation:us-east-1:478467878158:stack/amplify-clearbrewfrontend-dev-155616/9ad6ca10-b533-11ec-90c2-124e805486fb",
+      "AmplifyAppId": "d3htzz5icunzvd"
+    },
+    "categories": {
+      "auth": {
+        "clearbrewfrontend0aba483d": {
+          "userPoolId": "us-east-1_XkpVp3oJI",
+          "userPoolName": "amplify_backend_manager_d1tx4lekzfehf5",
+          "webClientId": "5sp3naebgjsbr0b85oba0pv168",
+          "nativeClientId": "5sp3naebgjsbr0b85oba0pv168"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+.User{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+span{
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    background: rgb(255, 123, 0);
+    border: 1px solid rgb(0, 0, 0);
+ }
+
+.value{
+    width: 200px;
+    height: 40px;
+    display: inline-block;
+    font-size: medium;
+    color: black;
+    text-align: center;
+}
+.mostCommonRecipes{
+    text-align: center;
+   
+    margin-left: 350px;
+    display:inline-block;
+}
+.recipesCompleted{
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 50px;
+    display: inline-block;
+}
+h3{ 
+    margin-left: 20px;
+    margin-top:  0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+.header{
+    font-weight: bold;
+    margin-top: -10px;
+}
+#h{
+    margin-left: 5px;
+}
+
+.tables{
+    text-align: center;
+    margin-top: -370px;
+    margin-left: -60px;
+}
+
+table{
+    margin-top: 10px;
+    height:auto;
+    width:auto;
+    text-align:center;
+    display: inline-block;
+}
+
+.table th{
+background-color: rgb(255, 123, 0);
+text-align: center;
+color: white; 
+}
+
+.table td {
+    font-size: medium;
+    text-align: center;
+  }
+
+tr:nth-child(even) {
+    text-align: center;
+    font-size: 16px;
+    background-color: #686868;}
+
+tr:nth-child(odd) {
+    text-align: center;
+    font-size: 16px;
+    background-color: #ffffff;}
+
+
+
